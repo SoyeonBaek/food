@@ -1,0 +1,72 @@
+[33mcommit 9dabfb2644a042275b744c53a247858bd656f65b[m[33m ([m[1;36mHEAD -> [m[1;32mother-food[m[33m)[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 20:43:37 2021 +0900
+
+    밀크빙수
+
+[33mcommit e980840ed418254ac9678c902c6edf295ddfafd9[m[33m ([m[1;32mmain[m[33m)[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 20:42:58 2021 +0900
+
+    찐빵
+
+[33mcommit 69a6ddea344914a05fd2d278c81417fcefed4ddb[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmandu[m[33m)[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 20:05:05 2021 +0900
+
+    squash merge
+
+[33mcommit 2b4896d7e180727a013828943aeae674f5052273[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:55:54 2021 +0900
+
+    add git ignore
+
+[33mcommit bb73288d58ba5386535f5dce746da32e7319aa04[m
+Merge: 398a3d8 e903426
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:53:25 2021 +0900
+
+    resolve conflict
+
+[33mcommit 398a3d8db295f0166a2ce9b6853fb856446faea9[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:51:58 2021 +0900
+
+    차돌박이 짬뽕
+
+[33mcommit e9034266b737e356e26a934cda60e208a15dca13[m[33m ([m[1;32mfood-list[m[33m)[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:51:15 2021 +0900
+
+    해물짬뽕
+
+[33mcommit 2d3a8295075aaeacb437bb9aa7216d79a4538a9a[m[33m ([m[1;31morigin/food-memo[m[33m, [m[1;32mfood-memo[m[33m)[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:44:20 2021 +0900
+
+    짬뽕
+
+[33mcommit 82a3e9c2c75eecb02ed9ee926c798add7814c890[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:40:14 2021 +0900
+
+    육개장 to 떡볶이
+
+[33mcommit c2a5fe38b83f873bccbcdb53358a02862f3342e9[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:33:19 2021 +0900
+
+    육개장과 떡볶이
+
+[33mcommit 86ada55bb6ada3e0d969ff19d9488608b9b6318d[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:29:32 2021 +0900
+
+    사골국물
+
+[33mcommit 3087fcf3571f66e032e72f613a8295e0589f1a62[m
+Author: SoyeonBaek <soyeon.baek28@gmail.com>
+Date:   Mon Mar 22 19:20:24 2021 +0900
+
+    hello, 육개장
